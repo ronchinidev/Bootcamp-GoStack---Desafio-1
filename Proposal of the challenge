@@ -40,5 +40,6 @@ aquele ID existe. Se não existir retorne um erro, caso contrário permita a req
 - Crie um middleware global chamado em todas requisições que imprime (`console.log`) uma contagem de quantas requisições foram feitas na
 aplicação até então;
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. 
+[https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/LICENSE.md]
 ========================================================================================================================================

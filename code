@@ -19,7 +19,7 @@ server.use(express.json());
 const projects = [];          // Database start without entries
 server.listen(3000);
 
-// ***************************** Middleweres **********************************
+// ***************************** Middlewares **********************************
 // Returns an error if the project id selected does not exist
 function Checkprojectexistence(req, res, next) {
   const {id} = req.params;
